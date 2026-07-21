@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Secrets / environment
+.env
+*.pem
+id_rsa
+
+# OS / editor
+.DS_Store
