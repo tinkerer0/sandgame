@@ -1,5 +1,9 @@
 # falling_sand
 
+[포트폴리오](https://github.com/tinkerer0/tinkerer0) · [게임 목록](https://github.com/tinkerer0/tinkerer0/blob/main/docs/GAMES.md)
+
+**분류:** 터미널 샌드박스 · **상태:** 공개 프로토타입
+
 터미널에서 돌아가는 폴링샌드(falling-sand) 물리 샌드박스 게임이다. 모래·물·돌·불·기름·증기·식물 7종 원소에 더해, 식물을 먹고 자라며 번식하는 벌레(BUG)까지 총 8종이 중력·확산·인화·포식 같은 규칙으로 상호작용하는 셀 오토마타를, curses TUI 위에서 실시간으로 그리고 붓으로 칠하며 가지고 놀 수 있다.
 
 ## 실행법
